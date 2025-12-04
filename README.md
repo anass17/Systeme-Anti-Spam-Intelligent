@@ -1,3 +1,5 @@
+Ce README est en français. Pour la version anglaise, voir [README_en.md](README_en.md).
+
 # Systeme-Anti-Spam-Intelligent
 
 Un projet complet de machine learning et NLP (Natural Language Processing) pour classifier les emails en **spam** ou **ham** grâce au prétraitement de texte, la vectorisation TF-IDF et plusieurs algorithmes de classification. Le modèle final est déployé avec **Streamlit**.
@@ -72,7 +74,7 @@ streamlit run app/streamlit_app.py
 ```
 
 5. **Ouvrir l’application dans votre navigateur:**
-Streamlit ouvrira automatiquement une fenêtre locale, sinon rendez-vous sur : http://localhost:8501/
+Streamlit ouvrira automatiquement une fenêtre locale, sinon rendez-vous sur : `http://localhost:8501/`
 
 
 ---
